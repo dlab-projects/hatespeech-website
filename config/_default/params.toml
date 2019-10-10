@@ -159,6 +159,9 @@ sharing = true
   publication_view = 2
   talk_view = 2
 
+[authors]
+  link_authors = false
+
 # Comments.
 [comments]
   # Comment provider:
