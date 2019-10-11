@@ -9,7 +9,7 @@ name: Claudia von Vacano
 
 weight: 2
 
-role: D-Lab, Digital Humanities
+role: D-Lab, Digital Humanities, Education
 
 user_groups:
 - Research Team
