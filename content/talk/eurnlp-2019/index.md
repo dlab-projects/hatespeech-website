@@ -43,7 +43,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
+url_pdf: "https://www.dropbox.com/s/ca7ta9fo82mvwuf/D-Lab%20Hate%20Speech%20IRT%20EurNLP.pdf?dl=0"
 url_video:
 
 # Markdown Slides (optional).
