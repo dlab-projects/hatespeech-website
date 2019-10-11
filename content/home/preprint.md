@@ -1,0 +1,10 @@
++++
+title = "Preprint"
+widget = "blank"
+headless = true
+active = true
+weight = 5
+
++++
+
+We are working hard to complete our preprint as soon as possible. We hope to release it by late October or early November. We will announce the preprint release via our [mailing list](#mailing-list).
