@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Rightscon 2018"
+title: "RightsCon 2018"
 event:
 event_url: "https://rightscon2018.sched.com/event/EHkw/the-online-hate-index-using-ai-to-create-community-based-definitions-of-hate-speech" 
 location: Toronto, Canada

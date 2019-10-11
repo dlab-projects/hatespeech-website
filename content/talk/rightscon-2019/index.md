@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Rightscon 2019"
+title: "RightsCon 2019"
 event:
 event_url: "https://rightscon2019.sched.com/event/PvfY/machine-learning-101-for-human-rights-activists-everything-you-wanted-to-know-about-machine-learning-but-were-afraid-to-ask" 
 location: Tunis, Tunisia
