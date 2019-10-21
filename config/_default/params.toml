@@ -21,7 +21,7 @@ font = ""
 font_size = "m"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "D-Lab's hate speech measurement project, integrating deep learning with item response theory"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
