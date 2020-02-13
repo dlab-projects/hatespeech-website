@@ -7,7 +7,7 @@ weight = 5
 
 +++
 
-## Unifying deep learning with item response theory: interval measurement, annotator debiasing, efficiency, and explainability
+## Integrating ordinal, multitask deep learning with faceted item response theory: debiased, explainable, interval measurement of hate speech
 
 Outcomes are commonly measured as binary variables: a comment is toxic or not, an image has sexual content or it doesn’t, etc. But the real world is more complex: most target variables are inherently continuous in nature. Physical quantities such as temperature and weight can be measured as interval variables where magnitudes are meaningful. How can we achieve that same interval measurement for arbitrary outcomes - creating continuous scales with magnitudes?
 
