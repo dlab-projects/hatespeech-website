@@ -7,4 +7,4 @@ weight = 5
 
 +++
 
-We have submitted our preprint to arXiv and it should be live the evening of September 22, 2020. We will announce the preprint release on this site and via our [mailing list](#mailing-list). If you would like to read the in-progress draft, please [send us a note](#contact).
+[View the preprint on arXiv here](https://arxiv.org/abs/2009.10277). We would love to [get any suggestions or feedback](#contact) as well.
