@@ -44,10 +44,10 @@
   url = "#talks"
   weight = 30
 
-[[main]]
-  name = "Mailing List"
-  url = "#mailing-list"
-  weight = 40
+# [[main]]
+#  name = "Mailing List"
+#  url = "#mailing-list"
+#  weight = 40
 
 [[main]]
   name = "Contact"
