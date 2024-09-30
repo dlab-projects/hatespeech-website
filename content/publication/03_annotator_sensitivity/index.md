@@ -3,8 +3,8 @@ title: "Assessing Annotator Identity Sensitivity via Item Response Theory: A Cas
 authors:
 - pratik-sachdeva
 - renata-barreto
-- chris-kennedy
 - claudia-von-vacano
+- chris-kennedy
 date: "2022-01-01T00:00:00Z"
 doi: ""
 
@@ -61,5 +61,5 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
