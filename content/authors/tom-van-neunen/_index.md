@@ -1,19 +1,21 @@
 ---
 # Display name
-name: Chris Kennedy
+name: Tom van Nuenen
 
 # Username (this should match the folder name)
 authors:
-- chris-kennedy
+- tom-van-nuenen
 
 user_groups:
 - Research Team
 
+# Is this the primary user of the site?
+superuser: true
 
-weight: 5
+weight: 2
 
 # Role/position
-role: Biostatistics
+role: Senior Data Scientist, D-Lab
 
 # Organizations/Affiliations
 #organizations:

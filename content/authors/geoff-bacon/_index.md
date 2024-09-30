@@ -8,6 +8,6 @@ weight: 3
 role: Linguistics
 
 user_groups:
-- Research Team
+- Former Team Members
 ---
 
