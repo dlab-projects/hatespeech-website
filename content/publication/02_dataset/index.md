@@ -2,6 +2,7 @@
 title: "The Measuring Hate Speech Corpus: Leveraging Rasch Measurement Theory for Data Perspectivism"
 authors:
 - pratik-sachdeva
+- renata-barreto
 - geoff-bacon
 - alexander-sahn
 - claudia-von-vacano
