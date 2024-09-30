@@ -2,6 +2,8 @@
 title: "Assessing Annotator Identity Sensitivity via Item Response Theory: A Case Study in a Hate Speech Corpus"
 authors:
 - pratik-sachdeva
+- chris-kennedy
+- claudia-von-vacano
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
