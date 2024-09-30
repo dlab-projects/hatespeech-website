@@ -17,4 +17,4 @@ The hate speech measurement project began in early 2017 at UC Berkeley's [D-Lab]
 
 This project website was created in October 2019 to tell our story. We are continuing to expand its content as we begin to report on our findings and solicit new partnerships.
 
-Test.
+Test. Test,
