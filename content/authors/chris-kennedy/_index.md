@@ -12,7 +12,7 @@ user_groups:
 weight: 4
 
 # Role/position
-role: Biostatistics
+role: Harvard Medical School
 
 # Organizations/Affiliations
 #organizations:
