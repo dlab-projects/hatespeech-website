@@ -1,62 +1,63 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Assessing Annotator Identity Sensitivity via Item Response Theory: A Case Study in a Hate Speech Corpus"
-event:
-event_url:
-location:
-summary:
-abstract:
+authors:
+- admin
+date: "2019-04-07T00:00:00Z"
+doi: ""
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-# date: 2019-05-10T17:37:45+01:00
-#date_end: 2019-10-10T17:37:45+01:00
-all_day: true
+# Schedule page publish date (NOT publication's date).
+publishDate: "2022-06-20T00:00:00Z"
 
-# Schedule page publish date (NOT talk date).
-# publishDate: 2019-10-10T17:37:45+01:00
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["1"]
 
-authors: []
-tags: []
+# Publication name and optional abbreviated publication name.
+publication: "Assessing Annotator Identity Sensitivity via Item Response Theory: A Case Study in a Hate Speech Corpus"
+publication_short: ""
 
-# Is this a featured talk? (true/false)
+abstract: "test"
+
+# Summary. An optional shortened abstract.
+# summary: ""
+
+tags:
+- Source Themes
 featured: false
+
+links:
+- name: Custom Link
+  url: https://dl.acm.org/doi/abs/10.1145/3531146.3533216
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3531146.3533216
+url_code: '#'
+url_dataset: '#'
+url_poster: '#'
+url_project: ''
+url_slides: ''
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-# Optional filename of your slides within your talk's folder or a URL.
-url_slides:
-
-url_code:
-url_pdf:
-url_video:
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+#projects:
+#- internal-project
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
 ---
