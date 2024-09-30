@@ -39,10 +39,10 @@
   url = "#partners"
   weight = 27
 
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 30
+# [[main]]
+#   name = "Talks"
+#   url = "#talks"
+#   weight = 30
 
 # [[main]]
 #  name = "Mailing List"

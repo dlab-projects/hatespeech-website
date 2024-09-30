@@ -13,6 +13,22 @@ title = "Overview"
 author = "admin"
 +++
 
-The hate speech measurement project began in early 2017 at UC Berkeley's [D-Lab](http://dlab.berkeley.edu). Our goal is to apply data science to track changes in hate speech over time and across social media. After three years we are now nearing the completion of a comprehensive, groundbreaking method to measure hate speech with precision while mitigating the influence of human bias.
+The *Measuring Hate Speech* project aims to develop models, datasets, and
+theoretical frameworks capable of measuring hate speech.
 
-This project website was created in October 2019 to tell our story. We are continuing to expand its content as we begin to report on our findings and solicit new partnerships.
+The majority of work in automated hate speech detection treats hate speech as a
+binary phenomenon: a piece of text is either hate speech or is not. This limited
+perspective does not account multifaceted nature of hate speech. Nor does it
+account for disagreements among individuals as to what constitutes hate speech.
+We have developed a methodology using Rasch measurement theory to develop a
+continuous *measurement scale* for hate speech. The measurement scale is further
+capable of accomodating annotator perspective in hate speech, allowing greater
+flexibility in modeling. By combining the measurement scale with large language
+models, we have developed tools that can measure the hatefulness of text at
+scale.
+
+The *Measuring Hate Speech* project began in early 2017 at UC Berkeley's
+[D-Lab](http://dlab.berkeley.edu). We continue our work on this project, both in
+academic research and deploying our expertise, tools, and methods to those who
+could benefit from them via consultations. If you are interested in partnering
+with us, please reach out using the contact form at the bottom of the website.
