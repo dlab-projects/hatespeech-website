@@ -1,7 +1,7 @@
 ---
 title: "Assessing Annotator Identity Sensitivity via Item Response Theory: A Case Study in a Hate Speech Corpus"
 authors:
-- admin
+- pratik-sachdeva
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -27,9 +27,9 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: https://dl.acm.org/doi/abs/10.1145/3531146.3533216
-url_pdf: https://dl.acm.org/doi/pdf/10.1145/3531146.3533216
+#- name: Custom Link
+#  url: https://dl.acm.org/doi/abs/10.1145/3531146.3533216
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3531146.3533216
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
