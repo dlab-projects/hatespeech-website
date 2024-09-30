@@ -16,5 +16,3 @@ author = "admin"
 The hate speech measurement project began in early 2017 at UC Berkeley's [D-Lab](http://dlab.berkeley.edu). Our goal is to apply data science to track changes in hate speech over time and across social media. After three years we are now nearing the completion of a comprehensive, groundbreaking method to measure hate speech with precision while mitigating the influence of human bias.
 
 This project website was created in October 2019 to tell our story. We are continuing to expand its content as we begin to report on our findings and solicit new partnerships.
-
-Test. Test,

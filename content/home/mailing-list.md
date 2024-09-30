@@ -2,7 +2,7 @@
 title = "Mailing List"
 widget = "blank"
 headless = true
-active = true
+active = false
 weight = 75
 
 +++
