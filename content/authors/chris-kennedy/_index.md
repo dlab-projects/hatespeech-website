@@ -9,8 +9,7 @@ authors:
 user_groups:
 - Research Team
 
-
-weight: 5
+weight: 4
 
 # Role/position
 role: Biostatistics

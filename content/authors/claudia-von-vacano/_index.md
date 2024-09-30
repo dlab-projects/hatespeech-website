@@ -7,7 +7,7 @@ name: Claudia von Vacano
 #interests: 
 #- D-Lab, Digital Humanities
 
-weight: 4
+weight: 1
 
 role: Executive Director, D-Lab
 
