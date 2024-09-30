@@ -3,7 +3,7 @@ title = "Partners"
 widget = "blank"
 headless = true
 active = true
-weight = 70
+weight = 100
 
 +++
 
