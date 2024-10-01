@@ -35,8 +35,8 @@ links:
 #- name: Custom Link
 #  url: https://dl.acm.org/doi/abs/10.1145/3531146.3533216
 url_pdf: https://arxiv.org/abs/2009.10277
-#url_code: '#'
-#url_dataset: '#'
+url_code: 'https://github.com/dlab-projects/hate_measure'
+url_dataset: 'https://huggingface.co/datasets/ucberkeley-dlab/measuring-hate-speech'
 #url_poster: '#'
 #url_project: ''
 #url_slides: ''

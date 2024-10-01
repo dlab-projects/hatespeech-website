@@ -1,5 +1,5 @@
 ---
-title: "Assessing Annotator Identity Sensitivity via Item Response Theory: A Case Study in a Hate Speech Corpus"
+title: "Targeted Identity Group Prediction in Hate Speech Corpora"
 authors:
 - pratik-sachdeva
 - renata-barreto
@@ -33,7 +33,7 @@ links:
 #- name: Custom Link
 #  url: https://dl.acm.org/doi/abs/10.1145/3531146.3533216
 url_pdf: https://aclanthology.org/2022.woah-1.22/
-#url_code: '#'
+url_code: 'https://github.com/dlab-projects/hate_target'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
