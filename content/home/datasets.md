@@ -16,13 +16,13 @@ author = "admin"
 Our datasets and models are freely and openly available on
 [HuggingFace](https://huggingface.co/ucberkeley-dlab). 
 
-The *Measuring Hate Speech* dataset, contains nearly 50,000 annotations, with
+The *Measuring Hate Speech* dataset contains nearly 50,000 annotations, with
 over 10,000 unique social media comments (from YouTube, Reddit, and Twitter).
 These annotations contain responses to 10 survey items which span our hate
-speech construct, and include information about the targets of the speech as
-well as annotator demographics.
+speech construct, information about the targets of the speech, and annotator
+demographics.
 
 Our neural network models are also available on HuggingFace. The code for these
-models is available on (GitHub)[https://github.com/dlab-projects/hate_measure].
+models is available on [GitHub](https://github.com/dlab-projects/hate_measure).
 The code to reproduce the work in our papers are also available on GitHub (see
 below).
