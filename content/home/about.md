@@ -18,11 +18,11 @@ theoretical frameworks capable of measuring hate speech.
 
 The majority of work in automated hate speech detection treats hate speech as a
 binary phenomenon: a piece of text is either hate speech or is not. This limited
-perspective does not account multifaceted nature of hate speech or for
+perspective does not account for the multifaceted nature of hate speech or for
 disagreements among individuals as to what constitutes hate speech.
 
 Using Rasch measurement theory, we have developed a continuous *measurement
-scale* for hate speech, capable of accomodating annotator perspective. By
+scale* for hate speech, capable of accommodating annotator perspective. By
 combining the measurement scale with large language models, we have developed
 tools that can measure the hatefulness of text at scale.
 
